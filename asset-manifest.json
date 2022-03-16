@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/u-nod/static/css/main.31d6cfe0.css",
+    "main.js": "/u-nod/static/js/main.3f13571c.js",
+    "static/media/logo.svg": "/u-nod/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/u-nod/index.html",
+    "main.3f13571c.js.map": "/u-nod/static/js/main.3f13571c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.3f13571c.js"
+  ]
+}
